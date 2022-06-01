@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Orientacao-objetos-usando-um-jogo-RPG/1.0.0": {
+        "runtime": {
+          "Orientacao-objetos-usando-um-jogo-RPG.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Orientacao-objetos-usando-um-jogo-RPG/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
